@@ -143,13 +143,13 @@
     border: 1px solid #000;
   }
 
-  #stream-box-self {
+  #stream-box-user {
     position: absolute;
     width: 100%;
     height: 100%;
   }
 
-  #stream-box-user {
+  #stream-box-self {
     position: absolute;
     width: calc(375px / 4);
     height: calc(812px / 4);
